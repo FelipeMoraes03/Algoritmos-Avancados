@@ -1,2 +1,2 @@
-# Algor-tmos-Avan-ados
-Listas de Algorítmos Avançados- 2023.2
+# Algoritmos-Avancados
+Listas da Cadeira de Algorítmos e Estruturas de Dados Avançados (IF869) - 2023.2
